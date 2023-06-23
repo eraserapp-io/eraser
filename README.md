@@ -1,5 +1,11 @@
 # Eraser App
 
+
+
+https://github.com/eraserapp-io/eraser/assets/27066041/339f973f-80d1-44ee-8a2e-71fdff0f2d26
+
+
+
 Eraser is an app I built to practice with react-native. It is a CRUD app that lets students track upcoming assignments for courses. It is based on Backpack, the more full-fledged solution that I have been building. You can check Backpack out on the app store [here](https://apps.apple.com/us/app/homework-tracker-by-backpack/id1482207446). I wanted to build a full-stack app to get experience working with different components of product development. I also wanted to apply the knowledge I have acquired from Backpack in order to create a robust and modular project. Finally, I thought it would be interesting to implement some ideas I had for Backpack that didn't make the final cut, such as a bidirectional infinite-scrolling agenda.
 ## `/app`
 This directory contains all necessary logic to run the react-native app _(note: only the iOS version is available at this point)_
