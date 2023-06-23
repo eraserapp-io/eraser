@@ -1,0 +1,6 @@
+{
+  "type": "service_account",
+  "project_id": "PROJECT_ID",
+  "private_key_id": "PRIVATE_KEY",
+  "_comment": "More fields should be below. Rename file to firebase.config.json after"
+}
