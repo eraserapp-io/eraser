@@ -29,7 +29,6 @@ This directory contains all necessary logic to run the NestJS server, which hand
 2. _Set up a postgres instance_
 3. Add database url to .env file in /server (_example provided_)
 4. Run `npx prisma migrate dev` to set up database
-5. 
 6. Run `npm run start:dev`
 7. Make a post request to /api/user to create the test user
 ```bash
